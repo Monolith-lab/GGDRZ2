@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<?validation-md5-digest 219ea88e5349b895103633ba5083b731?>
+<?validation-md5-digest 2f291f8c0d82e78b6a95cd379a96a0a2?>
 <worksheet version="3.0.3" xmlns="http://schemas.mathsoft.com/worksheet30" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ws="http://schemas.mathsoft.com/worksheet30" xmlns:ml="http://schemas.mathsoft.com/math30" xmlns:u="http://schemas.mathsoft.com/units10" xmlns:p="http://schemas.mathsoft.com/provenance10">
 	<pointReleaseData/>
 	<metadata>
@@ -13,9 +13,9 @@
 			<revisedBy>markinmikhail27@outlook.com</revisedBy>
 		</userData>
 		<identityInfo>
-			<revision>9</revision>
+			<revision>10</revision>
 			<documentID>B3F55A81-B2FE-4776-AFC4-3826705A8D0D</documentID>
-			<versionID>2E6C23C4-E8B9-4E55-88C4-C39F17CCB9D8</versionID>
+			<versionID>585A65D6-BCAD-4793-9FEF-83A4FF4C0B8E</versionID>
 			<parentVersionID>00000000-0000-0000-0000-000000000000</parentVersionID>
 			<branchID>00000000-0000-0000-0000-000000000000</branchID>
 		</identityInfo>
@@ -144,10 +144,10 @@
 		<region region-id="294" left="12" top="123" width="103.5" height="16.5" align-x="29.25" align-y="132" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224826868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317678372" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828148" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317678612" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -183,10 +183,10 @@
 		<region region-id="295" left="12" top="141" width="103.5" height="16.5" align-x="29.25" align-y="150" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828148" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317678612" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -237,10 +237,10 @@
 		<region region-id="10" left="12" top="267" width="102" height="16.5" align-x="60.75" align-y="276" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742300" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -284,10 +284,10 @@
 		<region region-id="11" left="12" top="286.5" width="55.5" height="35.25" align-x="27" align-y="306" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -333,10 +333,10 @@
 		<region region-id="14" left="12" top="345" width="94.5" height="22.5" align-x="57" align-y="360" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224826868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827068" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -387,10 +387,10 @@
 		<region region-id="16" left="12" top="393" width="308.25" height="22.5" align-x="192.75" align-y="408" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827668" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -491,10 +491,10 @@
 		<region region-id="17" left="12" top="423" width="308.25" height="22.5" align-x="128.25" align-y="438" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -595,10 +595,10 @@
 		<region region-id="18" left="12" top="454.5" width="188.25" height="41.25" align-x="50.25" align-y="480" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742300" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -669,10 +669,10 @@
 		<region region-id="19" left="12" top="501" width="157.5" height="22.5" align-x="50.25" align-y="516" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224826868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -739,10 +739,10 @@
 		<region region-id="22" left="12" top="550.5" width="110.25" height="37.5" align-x="60" align-y="576" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828748" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -796,10 +796,10 @@
 		<region region-id="23" left="12" top="592.5" width="110.25" height="37.5" align-x="60" align-y="618" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828748" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -863,10 +863,10 @@
 		<region region-id="26" left="12" top="658.5" width="279" height="37.5" align-x="105" align-y="684" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828028" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -963,10 +963,10 @@
 		<region region-id="27" left="12" top="700.5" width="202.5" height="37.5" align-x="60" align-y="726" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828668" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1048,10 +1048,10 @@
 		<region region-id="29" left="12" top="766.5" width="63.75" height="46.5" align-x="22.5" align-y="786" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1097,10 +1097,10 @@
 		<region region-id="30" left="12" top="811.5" width="168" height="67.5" align-x="22.5" align-y="852" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1193,10 +1193,10 @@
 		<region region-id="31" left="12" top="886.5" width="135.75" height="47.25" align-x="22.5" align-y="912" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828388" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1257,10 +1257,10 @@
 		<region region-id="32" left="12" top="940.5" width="192.75" height="41.25" align-x="22.5" align-y="966" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828388" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1331,10 +1331,10 @@
 		<region region-id="33" left="12" top="988.5" width="233.25" height="41.25" align-x="24" align-y="1014" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828148" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="FB6103FD-800D-4AB5-A7C8-8CE7BF65CE42" version-id="31D8F23F-394A-41A6-9C42-01E079DD6ACA" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_1.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1434,10 +1434,10 @@
 		<region region-id="37" left="6" top="1293" width="51.75" height="16.5" align-x="22.5" align-y="1302" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1462,10 +1462,10 @@
 		<region region-id="38" left="6" top="1311" width="51.75" height="16.5" align-x="22.5" align-y="1320" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1490,10 +1490,10 @@
 		<region region-id="40" left="6" top="1346.25" width="132" height="27.75" align-x="18.75" align-y="1362" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1543,10 +1543,10 @@
 		<region region-id="41" left="6" top="1377" width="162.75" height="22.5" align-x="23.25" align-y="1392" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828668" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1599,10 +1599,10 @@
 		<region region-id="42" left="6" top="1407" width="126" height="16.5" align-x="23.25" align-y="1416" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1647,10 +1647,10 @@
 		<region region-id="43" left="6" top="1425" width="49.5" height="22.5" align-x="24" align-y="1440" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1684,10 +1684,10 @@
 		<region region-id="45" left="6" top="1474.5" width="113.25" height="37.5" align-x="22.5" align-y="1500" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1732,10 +1732,10 @@
 		<region region-id="46" left="6" top="1516.5" width="113.25" height="37.5" align-x="22.5" align-y="1542" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1785,10 +1785,10 @@
 		<region region-id="48" left="6" top="1581" width="72.75" height="16.5" align-x="41.25" align-y="1590" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742380" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1831,10 +1831,10 @@
 		<region region-id="50" left="6" top="1618.5" width="107.25" height="37.5" align-x="58.5" align-y="1644" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742380" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1893,10 +1893,10 @@
 		<region region-id="52" left="6" top="1678.5" width="45.75" height="35.25" align-x="24.75" align-y="1698" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1926,10 +1926,10 @@
 		<region region-id="53" left="6" top="1712.25" width="70.5" height="27.75" align-x="18.75" align-y="1728" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -1962,10 +1962,10 @@
 		<region region-id="54" left="6" top="1750.5" width="96.75" height="37.5" align-x="18" align-y="1770" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2005,10 +2005,10 @@
 		<region region-id="55" left="6" top="1791" width="39.75" height="16.5" align-x="17.25" align-y="1800" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742300" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2038,10 +2038,10 @@
 		<region region-id="56" left="6" top="1816.5" width="103.5" height="35.25" align-x="21.75" align-y="1836" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828028" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742300" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2081,10 +2081,10 @@
 		<region region-id="57" left="6" top="1882.5" width="102.75" height="35.25" align-x="21.75" align-y="1902" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828748" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2124,10 +2124,10 @@
 		<region region-id="58" left="6" top="1924.5" width="183.75" height="37.5" align-x="23.25" align-y="1950" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2195,10 +2195,10 @@
 		<region region-id="60" left="6" top="1989" width="135.75" height="16.5" align-x="51" align-y="1998" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741700" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2243,10 +2243,10 @@
 		<region region-id="61" left="6" top="2013" width="121.5" height="22.5" align-x="24" align-y="2028" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2294,10 +2294,10 @@
 		<region region-id="62" left="6" top="2043" width="117" height="22.5" align-x="24" align-y="2058" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828748" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2340,10 +2340,10 @@
 		<region region-id="63" left="6" top="2073" width="203.25" height="16.5" align-x="25.5" align-y="2082" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2407,10 +2407,10 @@
 		<region region-id="65" left="6" top="2115" width="114" height="16.5" align-x="23.25" align-y="2124" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2454,10 +2454,10 @@
 		<region region-id="67" left="6" top="2151" width="174.75" height="16.5" align-x="30.75" align-y="2160" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="15C5FF52-7CFB-46A0-84E8-90C37ED2E152" version-id="7F70D726-4252-41F7-8E0A-E30872677BE0" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_2.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2506,7 +2506,7 @@
 		</region>
 		<region region-id="68" left="6" top="2174.25" width="203.25" height="12" align-x="15.75" align-y="2184" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="true">
-				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Сила направлена по движению жидкости</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Сила направлена против движения жидкости</p>
 			</text>
 		</region>
 		<region region-id="171" left="6" top="2193" width="82.5" height="16.5" align-x="62.25" align-y="2202" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
@@ -2537,10 +2537,10 @@
 		<region region-id="146" left="12" top="2529" width="111.75" height="16.5" align-x="25.5" align-y="2538" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827668" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828748" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2585,10 +2585,10 @@
 		<region region-id="147" left="12" top="2547" width="98.25" height="16.5" align-x="24" align-y="2556" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828748" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2639,10 +2639,10 @@
 		<region region-id="77" left="12" top="2674.5" width="131.25" height="35.25" align-x="131.25" align-y="2694" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741660" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828748" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2708,10 +2708,10 @@
 		<region region-id="78" left="12" top="2710.5" width="29.25" height="35.25" align-x="29.25" align-y="2730" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741660" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2737,10 +2737,10 @@
 		<region region-id="79" left="12" top="2746.5" width="99" height="35.25" align-x="99" align-y="2766" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828748" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2794,10 +2794,10 @@
 		<region region-id="80" left="12" top="2785.5" width="106.5" height="33" align-x="106.5" align-y="2802" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2851,10 +2851,10 @@
 		<region region-id="81" left="12" top="2818.5" width="97.5" height="35.25" align-x="42" align-y="2838" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2907,10 +2907,10 @@
 		<region region-id="82" left="12" top="2854.5" width="32.25" height="35.25" align-x="24" align-y="2874" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2936,10 +2936,10 @@
 		<region region-id="83" left="12" top="2888.25" width="91.5" height="31.5" align-x="36" align-y="2904" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -2988,10 +2988,10 @@
 		<region region-id="84" left="12" top="2931.75" width="162" height="57" align-x="51" align-y="2958" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828388" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3072,10 +3072,10 @@
 		<region region-id="85" left="12" top="2986.5" width="144" height="41.25" align-x="32.25" align-y="3012" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828228" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3142,10 +3142,10 @@
 		<region region-id="86" left="12" top="3034.5" width="70.5" height="41.25" align-x="24" align-y="3060" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742300" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3194,10 +3194,10 @@
 		<region region-id="87" left="12" top="3112.5" width="76.5" height="41.25" align-x="30" align-y="3138" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3250,10 +3250,10 @@
 		<region region-id="88" left="12" top="3160.5" width="84.75" height="35.25" align-x="45.75" align-y="3180" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742540" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827908" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3303,10 +3303,10 @@
 		<region region-id="89" left="12" top="3196.5" width="86.25" height="41.25" align-x="63.75" align-y="3216" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741700" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3360,10 +3360,10 @@
 		<region region-id="90" left="12" top="3244.5" width="105" height="42.75" align-x="82.5" align-y="3264" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828588" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3426,10 +3426,10 @@
 		<region region-id="91" left="12" top="3299.25" width="153.75" height="59.25" align-x="117" align-y="3324" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828588" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3511,10 +3511,10 @@
 		<region region-id="93" left="12" top="3383.25" width="130.5" height="54" align-x="75.75" align-y="3408" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742220" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3587,10 +3587,10 @@
 		<region region-id="94" left="12" top="3441" width="162" height="38.25" align-x="126.75" align-y="3462" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3688,10 +3688,10 @@
 		<region region-id="95" left="12" top="3483" width="150" height="38.25" align-x="119.25" align-y="3504" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828228" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3785,10 +3785,10 @@
 		<region region-id="96" left="12" top="3531" width="6.75" height="16.5" align-x="14.25" align-y="3540" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741700" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828388" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3826,10 +3826,10 @@
 		<region region-id="101" left="12" top="3603" width="33.75" height="16.5" align-x="33.75" align-y="3612" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741540" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3854,10 +3854,10 @@
 		<region region-id="102" left="12" top="3627" width="151.5" height="38.25" align-x="119.25" align-y="3648" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741540" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3951,10 +3951,10 @@
 		<region region-id="103" left="12" top="3675" width="23.25" height="16.5" align-x="23.25" align-y="3684" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828188" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -3976,10 +3976,10 @@
 		<region region-id="104" left="12" top="3735" width="129" height="38.25" align-x="119.25" align-y="3756" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828028" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4065,10 +4065,10 @@
 		<region region-id="105" left="12" top="3783" width="120" height="38.25" align-x="84" align-y="3804" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741660" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4146,10 +4146,10 @@
 		<region region-id="106" left="12" top="3832.5" width="116.25" height="54.75" align-x="66" align-y="3870" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828228" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4230,10 +4230,10 @@
 		<region region-id="107" left="12" top="3898.5" width="169.5" height="45" align-x="63" align-y="3936" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742300" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4316,10 +4316,10 @@
 		<region region-id="108" left="12" top="3958.5" width="219.75" height="45" align-x="63" align-y="3996" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742540" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4429,10 +4429,10 @@
 		<region region-id="109" left="12" top="4018.5" width="219.75" height="45" align-x="21.75" align-y="4056" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828588" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4542,10 +4542,10 @@
 		<region region-id="110" left="12" top="4084.5" width="219.75" height="45" align-x="96" align-y="4122" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4655,10 +4655,10 @@
 		<region region-id="111" left="12" top="4144.5" width="227.25" height="45" align-x="103.5" align-y="4182" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827668" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742540" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4770,10 +4770,10 @@
 		<region region-id="112" left="12" top="4212" width="148.5" height="88.5" align-x="21.75" align-y="4260" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741700" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4883,10 +4883,10 @@
 		<region region-id="113" left="12" top="4353.75" width="123.75" height="84.75" align-x="21.75" align-y="4398" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827828" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -4990,10 +4990,10 @@
 		<region region-id="115" left="12" top="4472.25" width="81.75" height="39.75" align-x="47.25" align-y="4494" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5052,10 +5052,10 @@
 		<region region-id="116" left="12" top="4520.25" width="78" height="39.75" align-x="47.25" align-y="4542" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742660" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828388" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5113,10 +5113,10 @@
 		<region region-id="118" left="12" top="4588.5" width="126.75" height="35.25" align-x="21.75" align-y="4608" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828228" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741540" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742380" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5184,10 +5184,10 @@
 		<region region-id="120" left="12" top="4654.5" width="139.5" height="35.25" align-x="33.75" align-y="4674" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828148" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5259,10 +5259,10 @@
 		<region region-id="122" left="12" top="4720.5" width="189.75" height="38.25" align-x="36.75" align-y="4740" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741660" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5336,10 +5336,10 @@
 		<region region-id="123" left="12" top="4766.25" width="343.5" height="27.75" align-x="38.25" align-y="4782" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828148" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741780" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5379,10 +5379,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827908" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741700" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828388" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741860" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5415,10 +5415,10 @@
 		<region region-id="126" left="12" top="4844.25" width="174" height="27.75" align-x="40.5" align-y="4860" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827908" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741700" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5460,10 +5460,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828588" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5491,10 +5491,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5521,10 +5521,10 @@
 		<region region-id="129" left="12" top="4899" width="33" height="16.5" align-x="25.5" align-y="4908" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828028" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5545,10 +5545,10 @@
 		<region region-id="130" left="66" top="4899" width="29.25" height="16.5" align-x="78" align-y="4908" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828588" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742340" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5570,10 +5570,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828028" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5606,10 +5606,10 @@
 		<region region-id="132" left="12" top="4923" width="49.5" height="16.5" align-x="24" align-y="4932" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742460" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828588" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5630,10 +5630,10 @@
 		<region region-id="133" left="12" top="4941" width="111" height="16.5" align-x="40.5" align-y="4950" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827988" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827908" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5655,10 +5655,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:symEval style="default" hide-keywords="false" hide-lhs="false" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827788" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827708" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742620" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5731,10 +5731,10 @@
 		<region region-id="135" left="12" top="5019" width="132" height="16.5" align-x="39" align-y="5028" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828388" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742380" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5759,10 +5759,10 @@
 		<region region-id="136" left="12" top="5042.25" width="178.5" height="27.75" align-x="40.5" align-y="5058" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828388" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742300" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5803,10 +5803,10 @@
 		<region region-id="137" left="12" top="5079" width="111" height="16.5" align-x="40.5" align-y="5088" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828508" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317741540" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828428" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742380" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5828,10 +5828,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:symEval style="default" hide-keywords="false" hide-lhs="false" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828148" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742580" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828348" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742300" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5904,10 +5904,10 @@
 		<region region-id="139" left="12" top="5151" width="132" height="16.5" align-x="39" align-y="5160" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="false">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828188" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827868" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742500" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5933,10 +5933,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827908" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742180" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828188" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -5964,10 +5964,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828188" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742540" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -6035,7 +6035,7 @@
 		</region>
 		<region region-id="223" left="18" top="5330.25" width="203.25" height="12" align-x="27.75" align-y="5340" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<text use-page-width="false" push-down="false" lock-width="true">
-				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Сила направлена по движению жидкости</p>
+				<p style="Normal" margin-left="inherit" margin-right="inherit" text-indent="inherit" text-align="inherit" list-style-type="inherit" tabs="inherit">Сила направлена против движения жидкости</p>
 			</text>
 		</region>
 		<region region-id="224" left="18" top="5348.25" width="57" height="12" align-x="34.5" align-y="5358" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
@@ -6051,10 +6051,10 @@
 		<region region-id="226" left="18" top="5380.5" width="143.25" height="35.25" align-x="39.75" align-y="5400" show-border="false" show-highlight="false" is-protected="true" z-order="0" background-color="inherit" tag="">
 			<math optimize="false" disable-calc="true">
 				<ml:provenance expr-id="1" xmlns:ml="http://schemas.mathsoft.com/math30">
-					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828028" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742060" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</originRef>
-					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828548" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+					<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742020" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 						<hash/>
 					</parentRef>
 					<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -6122,10 +6122,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828108" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742420" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742660" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -6154,10 +6154,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224828308" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742660" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
@@ -6185,10 +6185,10 @@
 			<math optimize="false" disable-calc="false">
 				<ml:eval placeholderMultiplicationStyle="default" xmlns:ml="http://schemas.mathsoft.com/math30">
 					<ml:provenance expr-id="1">
-						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827628" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<originRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742140" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</originRef>
-						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="224827668" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
+						<parentRef doc-id="ECB2D24D-22DA-42BB-BEDD-152C8B7F891B" version-id="0DB8659D-B980-49AF-9E7F-93F32ADD6EE8" branch-id="00000000-0000-0000-0000-000000000000" revision-num="317742260" is-modified="false" region-id="0" href="D:\ВУЗ\Гидрогазодинамика\РЗ№2\zadacha_3.xmcd" xmlns="http://schemas.mathsoft.com/provenance10">
 							<hash/>
 						</parentRef>
 						<comment xmlns="http://schemas.mathsoft.com/provenance10"/>
